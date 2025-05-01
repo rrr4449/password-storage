@@ -68,5 +68,15 @@
             "name": "mero05377",
             "mention": "<@1358900071931842601>"
         }
+    },
+    {
+        "password": "JUGDKTRTHSRK",
+        "length": 12,
+        "timestamp": "2025-05-01T22:23:49.530574",
+        "user": {
+            "id": 1329803343740010547,
+            "name": "rakurau",
+            "mention": "<@1329803343740010547>"
+        }
     }
 ]
