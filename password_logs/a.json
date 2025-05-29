@@ -28,5 +28,15 @@
             "name": "kosanpuni",
             "mention": "<@1235586277953372182>"
         }
+    },
+    {
+        "password": "CJNCIAWQKCNI",
+        "length": 12,
+        "timestamp": "2025-05-29T18:27:41.455635",
+        "user": {
+            "id": 1342656629811712070,
+            "name": "rakitori8",
+            "mention": "<@1342656629811712070>"
+        }
     }
 ]
