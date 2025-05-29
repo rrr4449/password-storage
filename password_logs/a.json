@@ -18,5 +18,15 @@
             "name": "ツムツムBOT",
             "mention": "<@1377505219860103239>"
         }
+    },
+    {
+        "password": "JYDNNFVIQLWK",
+        "length": 12,
+        "timestamp": "2025-05-29T15:23:54.339732",
+        "user": {
+            "id": 1235586277953372182,
+            "name": "kosanpuni",
+            "mention": "<@1235586277953372182>"
+        }
     }
 ]
