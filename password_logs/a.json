@@ -148,5 +148,15 @@
             "name": "hikasan1415",
             "mention": "<@1091705984415707137>"
         }
+    },
+    {
+        "password": "FHBQXPWMWMHZ",
+        "length": 12,
+        "timestamp": "2025-06-02T22:11:16.185820",
+        "user": {
+            "id": 1338126689544175676,
+            "name": "mi_ki.check",
+            "mention": "<@1338126689544175676>"
+        }
     }
 ]
