@@ -18,5 +18,15 @@
             "name": "rakitori8",
             "mention": "<@1342656629811712070>"
         }
+    },
+    {
+        "password": "DTKLNHRBPCBV",
+        "length": 12,
+        "timestamp": "2025-06-11T00:45:22.763106",
+        "user": {
+            "id": 1235586277953372182,
+            "name": "kosanpuni",
+            "mention": "<@1235586277953372182>"
+        }
     }
 ]
